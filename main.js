@@ -18,8 +18,7 @@ const nextSlide = () => {
         // Add current back to the beggining:
         slide[0].classList.add('current')
     }
-    setTimeout(() => current.classList.remove('current'))
-        
+    setTimeout(() => current.classList.remove('current'))   
 }
 
 const prevSlide = () => {
