@@ -1,2 +1,2 @@
 # imgSlider
-An image slider prototype to create an awesome project.
+An image slider prototype to create a buch of awesome projects.
