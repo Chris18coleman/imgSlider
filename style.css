@@ -38,12 +38,13 @@ body {
 .slide .content {
     position: absolute;
     bottom: 70px;
-    left: -600px;
+    left: -500px;
     opacity: 0;           
-    width: 600px;
+    width: 500px;
     background-color: rgba(255, 255, 255, 0.5);
     color: #333;
-    padding: 35px;
+    padding: 25px;
+    border-radius: 35px;
 }
 
 .slide .content h1 {
