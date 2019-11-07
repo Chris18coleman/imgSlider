@@ -36,7 +36,6 @@ const prevSlide = () => {
         slide[slide.length - 1].classList.add('current')
     }
     setTimeout(() => current.classList.remove('current'))
-
 }
 
 // Button events:
